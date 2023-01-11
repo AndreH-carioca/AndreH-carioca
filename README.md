@@ -1,8 +1,7 @@
 <h1 align='center'> Olá! Sou André Higino Carioca 💚 </h1>
  
-- 🔭 I’m currently working on ...
-- 🌱 Estou aprendendo Node.Js, TypeScript e Git
-- 👯 I’m looking to collaborate on ...
+- 🌱 Estou aprendendo Node.Js, TypeScript, HTML e Git
+- 🔭 Atualmente estou trabalhando na Amazonas Energia S.A
 -
 - 💬 Ask me about ...
 - 📫 Contate-me no email: andrhigino2@gmail.com
