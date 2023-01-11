@@ -28,10 +28,12 @@
 <a href = "mailto:contatoandrhigino2@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
+  <a href="https://www.linkedin.com/in/andr%C3%A9-higino-carioca-760557192" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
-
+ <a href="https://www.instagram.com/andrehiginocarioca"/>
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 
  <h2> Desenvolvimento </h2>
 
