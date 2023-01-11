@@ -4,7 +4,11 @@
  <a href="https://github.com/AndreH-carioca">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreH-carioca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
-
+<div align="center">
+   <img height="380em" src="https://user-images.githubusercontent.com/73543390/211690936-6a03b556-6049-43ce-b13e-63be4960e5f0.gif"/>
+</div>
+ 
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
