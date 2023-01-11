@@ -2,10 +2,9 @@
  
 - 🌱 Estou aprendendo Node.Js, TypeScript, HTML e Git
 - 🔭 Atualmente estou trabalhando na Amazonas Energia S/A
-- - 📫 Contate-me no email: andrhigino2@gmail.com
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Contate-me no email: andrhigino2@gmail.com
+<!-- - 💬 Ask me about ...
+- ⚡ Fun fact: ... -->
 
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/73543390/211690936-6a03b556-6049-43ce-b13e-63be4960e5f0.gif"/>
