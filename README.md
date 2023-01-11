@@ -1,10 +1,9 @@
 <h1 align='center'> Olá! Sou André Higino Carioca 💚 </h1>
  
 - 🌱 Estou aprendendo Node.Js, TypeScript, HTML e Git
-- 🔭 Atualmente estou trabalhando na Amazonas Energia S.A
--
+- 🔭 Atualmente estou trabalhando na Amazonas Energia S/A
+- - 📫 Contate-me no email: andrhigino2@gmail.com
 - 💬 Ask me about ...
-- 📫 Contate-me no email: andrhigino2@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
@@ -41,5 +40,4 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreH-carioca&layout=compact&langs_count=16&theme=omni"/>
   </div>
 
-###
 
