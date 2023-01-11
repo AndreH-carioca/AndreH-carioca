@@ -1,5 +1,4 @@
-### Olá! Sou André Higino Carioca 💚
-
+<h1 align='center'> Olá! Sou André Higino Carioca 💚 </h1>
  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
