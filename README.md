@@ -1,5 +1,5 @@
-<h1 align='center'> Olá! Sou André Higino Carioca 💚 </h1>
-<p align='center'> Tranquilo? </p>
+<h1 align='center'>Sou André Higino Carioca 💚 </h1>
+<p align='center'> Tudo bem?</p>
  
 - 🌱 Estou aprendendo Node.Js, TypeScript, HTML e Git
 - 🔭 Atualmente estou trabalhando na Amazonas Energia S/A
