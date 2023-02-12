@@ -1,5 +1,4 @@
 <h1 align='center'>Sou André Higino Carioca 💚 </h1>
-<p align='center'> Tudo bem?</p>
 
 👤 **André Higino Carioca**
  
