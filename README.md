@@ -22,7 +22,7 @@
   <img align="center" alt="AndreH-POSTEGRESQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
 
-<h2> Contatos </h2>
+<h2> 📲 Contatos </h2>
 <a href = "mailto:contatoandrhigino2@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
