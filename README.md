@@ -23,7 +23,7 @@
 </div>
 
 <h2> 📲 Contatos </h2>
-<a href = "mailto:contatoandrhigino2@gmail.com">
+<a href = "gmailto:contatoandrhigino2@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
   <a href="https://www.linkedin.com/in/andr%C3%A9-higino-carioca-760557192" target="_blank">
