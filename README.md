@@ -13,7 +13,7 @@
    <img height="380em" src="https://user-images.githubusercontent.com/73543390/211690936-6a03b556-6049-43ce-b13e-63be4960e5f0.gif"/>
 </div>
  
-<h2> Tecnologias - Skills </h2>
+<h2> 🤖 Tecnologias - Skills </h2>
  <div style="display: inline_block"><br>
   <img align="center" alt="AndreH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="AndreH-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -34,8 +34,7 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"/>
   </a>
 
-🧑‍💻 **Desenvolvimento**
-<!--  <h2> Desenvolvimento </h2> -->
+ <h2> 🧑‍💻 Desenvolvimento </h2>
 
 <div>
  <a href="https://github.com/AndreH-carioca">
