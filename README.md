@@ -1,4 +1,4 @@
-<h1 align='center'>Sou André Higino Carioca 💚 </h1>
+<h1 align='center'>Sou André Higino Carioca ✌️ </h1>
 
 👤 **André Higino Carioca**
  
