@@ -35,10 +35,7 @@
 
 ## Contato
 
-<a href="gmailto:contatoandrhigino2@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-andrehcarioca-05122A?style=flat&logo=gmail" alt="gmail"/>
-</a>
-<a href="https://twitter.com/higinoandre" target="_blank">
+<!-- <a href="https://twitter.com/higinoandre" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-andrehcarioca-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/andr%C3%A9-higino-carioca-760557192" target="_blank">
@@ -47,7 +44,10 @@
 <a href="https://www.instagram.com/andrehiginocarioca/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-andrehcarioca-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-</p>
+<a href="gmailto:contatoandrhigino2@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-andrehcarioca-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
+</p> -->
 
 <a href = "gmailto:contatoandrhigino2@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -58,7 +58,9 @@
  <a href="https://www.instagram.com/andrehiginocarioca"/>
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"/>
   </a>
-
+<!--  <a href="https://www.instagram.com/andrehiginocarioca"/>
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"/>
+  </a> -->
  <h2> 🧑‍💻 Desenvolvimento </h2>
 
 <div>
