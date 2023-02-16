@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#3a23dcheight=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#3a23dcheight=120&section=header"/> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+André+Higino+Carioca+✌️;Seja+Bem+Vindo+!+😀)](https://git.io/typing-svg)
 
@@ -16,7 +16,13 @@
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/73543390/211690936-6a03b556-6049-43ce-b13e-63be4960e5f0.gif"/>
 </div>
- 
+
+ ### Ferramentas:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+
 <h2> 🤖 Tecnologias - Skills </h2>
  <div style="display: inline_block"><br>
   <img align="center" alt="AndreH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,7 +33,23 @@
   <img align="center" alt="AndreH-POSTEGRESQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
 
-<h2> 📲 Contatos </h2>
+## Contato
+
+<a href="gmailto:contatoandrhigino2@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-andrehcarioca-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
+<a href="https://twitter.com/higinoandre" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-andrehcarioca-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://www.linkedin.com/in/andr%C3%A9-higino-carioca-760557192" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-andrehcarioca-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/andrehiginocarioca/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
+https://mail.google.com/mail/
 <a href = "gmailto:contatoandrhigino2@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
