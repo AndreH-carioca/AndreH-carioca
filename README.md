@@ -45,11 +45,10 @@
   <img align="center" src="https://img.shields.io/badge/-andrehcarioca-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/andrehiginocarioca/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-andrehcarioca-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
-https://mail.google.com/mail/
 <a href = "gmailto:contatoandrhigino2@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
