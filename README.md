@@ -49,7 +49,7 @@
   </a>
  
  
-### 🧑‍💻 Desenvolvimento 
+### 🧑‍💻 Desenvolvimento:
 
 <div>
  <a href="https://github.com/AndreH-carioca">
