@@ -8,6 +8,7 @@
 👤 **André Higino Carioca**
  
 - 🌱 Estou aprendendo JAVASCRIPT, NODE.JS , MySQL, HTML, CSS e GIT
+- 🔭 Atualmente estou trabalhando na Amazonas Energia
 - 📫 Contate-me no email: andrhigino2@gmail.com
 <!-- - 💬 Ask me about ...
 - ⚡ Fun fact: ... -->
