@@ -3,12 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+André+Higino+Carioca+✌️;Seja+Bem+Vindo+!+😀)](https://git.io/typing-svg) -->
 
 
-<h1 align='center'>Sou André Higino Carioca ✌️ <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h1>
+<h1 align='center'>Sou André Higino Carioca 😀 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h1>
 
 👤 **André Higino Carioca**
  
 - 🌱 Estou aprendendo JAVASCRIPT, NODE.JS , MySQL, HTML, CSS e GIT
-- 🔭 Atualmente estou trabalhando na Amazonas Energia S/A
 - 📫 Contate-me no email: andrhigino2@gmail.com
 <!-- - 💬 Ask me about ...
 - ⚡ Fun fact: ... -->
