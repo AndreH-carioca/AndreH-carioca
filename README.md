@@ -7,7 +7,7 @@
 
 👤 **André Higino Carioca**
  
-- 🌱 Estou aprendendo JAVASCRIPT/TYPESCRIPT, MySQL, ELECTRON.JS e GIT
+- 🌱 Estou aprendendo React.JS, Electron.JS, MySQL e GIT
 - 🔭 Atualmente estou trabalhando na Amazonas Energia
 - 📫 Contate-me no email: andrhigino2@gmail.com
 <!-- - 💬 Ask me about ...
