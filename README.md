@@ -1,38 +1,32 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#3a23dcheight=120&section=header"/> -->
-<!-- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+André+Higino+Carioca+✌️;Seja+Bem+Vindo+!+😀)](https://git.io/typing-svg) -->
-
 
 <h1 align='center'>Sou André Higino Carioca 👋 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h1>
 
 👤 **André Higino Carioca**
  
 - 🌱 Atualmente aprendendo React.JS, Electron.JS, Figma, MySQL e GIT
-- 🔭 Estou trabalhando na Amazonas Energia
+- 🔭 Estou trabalhando na Amazonas Energia S.A
 - 📫 Contate-me no email: andrhigino2@gmail.com
-<!-- - 💬 Ask me about ...
-- ⚡ Fun fact: ... -->
-
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/73543390/211690936-6a03b556-6049-43ce-b13e-63be4960e5f0.gif"/>
 </div>
 
-### 💻 Ferramentas:
+### 💻 Ambiente de Desenvolvimento
  <div style="display: inline_block"><br>
  <img align="center" alt="AndreH-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  <img align="center" alt="AndreH-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  <img align="center" alt="AndreH-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-<!--  <img align="center" alt="AndreH-Apple" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /> -->
  
 ### 🤖 Habilidade nas Tecnologias: 
- <div style="display: inline_block"><br>
-  <img align="center" alt="AndreH-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="AndreH-HTML" height="35"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="AndreH-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="AndreH-Express" heigh="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="AndreH-NODEJS" height="35" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="AndreH-REACT" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="AndreH-POSTEGRESQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+<div style="display: inline_block"><br>
+ 
+<img align="center" alt="AndreH-JS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="AndreH-HTML" height="35"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="AndreH-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="AndreH-Express" heigh="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="center" alt="AndreH-NODEJS" height="35" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="AndreH-REACT" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" alt="AndreH-ELECTRON.JS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+<img align="center" alt="AndreH-MySQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  />
 
 ### 📱 Contato: 
 
