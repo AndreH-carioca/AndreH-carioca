@@ -3,8 +3,8 @@
 
 👤 **André Higino Carioca**
  
-- 🌱 Atualmente aprendendo React.JS, Electron.JS, Figma, MySQL e GIT
-- 🔭 Estou trabalhando na Amazonas Energia S.A
+- 🌱 Atualmente aprendendo React.JS | ElectronJS | NodeJS | PHP | MySQL
+- 🧑‍💻 Estou trabalhando na Empresa SiriusHS
 - 📫 Contate-me no email: andrhigino2@gmail.com
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/73543390/211690936-6a03b556-6049-43ce-b13e-63be4960e5f0.gif"/>
