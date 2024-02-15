@@ -4,7 +4,7 @@
 👤 **André Higino Carioca**
  
 - 🌱 Atualmente aprendendo React.JS | ElectronJS | NodeJS | PHP | MySQL
-- 🧑‍💻 Estou trabalhando na Empresa SiriusHS
+- 🧑‍💻 Estou trabalhando na Empresa SiriusHR
 - 📫 Contate-me no email: andrhigino2@gmail.com
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/73543390/211690936-6a03b556-6049-43ce-b13e-63be4960e5f0.gif"/>
