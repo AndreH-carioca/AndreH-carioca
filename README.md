@@ -1,5 +1,5 @@
 
-<h1 align='center'>Sou André Higino Carioca  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h1>
+<h1 align='center'>Sou André Higino Carioca   </h1>
 
 👤 **André Higino Carioca**
  
