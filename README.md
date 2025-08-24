@@ -3,7 +3,7 @@
 
 👤 **André Higino Carioca**
  
-- 🌱 Atualmente aprendendo REACT | ELECTRON | NODEJS | PHP | TAURI | MYSQL
+- 🌱 Atualmente aprendendo REACT | ELECTRON | NODEJS | PHP | MYSQL
 - 🧑‍💻 Estou trabalhando na Empresa SiriusHR Tecnologia
 - 📫 Contate-me no email: andrhigino2@gmail.com
 <div align="center">
